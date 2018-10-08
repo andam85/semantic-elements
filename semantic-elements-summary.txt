@@ -1,0 +1,5 @@
+Semantic elements are objects supported by HTML5 whose name are both understood by both the Browser and the Developers.
+A major benefit of using semantic elements while coding is that it is a standard better understood by both machines and people.
+Using semantic elements allows machines to scan the HTML document easier to understand the site contents.
+The benefits extend to distributing or sharing your work to other developers as well.
+Rather than trying to understand the function of each specific divits, when developers see semantic tags, the name itself suggests the function of it.
